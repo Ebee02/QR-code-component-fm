@@ -1,0 +1,17 @@
+.main-container {
+  font-size: 15px;
+  font-family: Outfit, Arial, Helvetica, sans-serif;
+}
+
+.image {
+  background-image: url("images/image-qr-code.png");
+  background-position: center;
+  background-size: cover;
+}
+
+.attribution {
+  text-align: center;
+}
+.attribution a {
+  color: blue;
+}
